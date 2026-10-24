@@ -23,7 +23,7 @@ export default () => {
     {
       isApplication: true,
       title: 'To Do List',
-      href: 'https://alek7765.github.io/todo-react/',
+      href: 'https://sokolovcode.github.io/todo-react/',
       imgSrc: '/src/assets/images/portfolio/portfolio-app-1.jpg',
     },
     {
